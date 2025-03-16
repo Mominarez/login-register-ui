@@ -9,7 +9,7 @@ This repository contains multiple **Login and Register UI projects** built using
 ## **✨ How to Use**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/login-register-ui.git
+   git clone https://github.com/Mominarez/login-register-ui.git
 2. Open any project folder and run the index.html file in your browser
 
 ## **👀 Features**
